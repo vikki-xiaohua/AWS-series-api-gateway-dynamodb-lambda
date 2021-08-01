@@ -28,10 +28,13 @@ DynamoDB -> Create table
 
 ### Create Lambda Function on AWS Console
 
-**1. Create Lambda function
-2. Upload the Jar file
-3.  Configure Handler
-4. Configure test event**
+**1. Create Lambda function**
+
+**2. Upload the Jar file**
+
+**3.  Configure Handler**
+
+**4. Configure test event**
 
 ![enter image description here](https://github.com/vikki-xiaohua/AWS-series-api-gateway-dynamodb-lambda/blob/main/image/lambda-1.png)
 
@@ -45,4 +48,4 @@ DynamoDB -> Create table
 
 ## Todo
 
-AWS API Gateway
+Add AWS API Gateway as trigger
