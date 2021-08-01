@@ -2,9 +2,13 @@
 # api-gateway-dynamodb-lambda
 
 
-###  Create role with permission
+###  Create role 
 
 Create a role with Lambda and Dynamodb permission
+
+Identity and Access Management (IAM) -> Roles -> Create role
+
+![enter image description here](https://github.com/vikki-xiaohua/AWS-series-api-gateway-dynamodb-lambda/blob/main/image/iam-role.png)
 
 ###  Write codes
 
@@ -24,10 +28,21 @@ DynamoDB -> Create table
 
 ### Create Lambda Function on AWS Console
 
-Create Lambda function
-Upload the Jar file
-Configure Handler
-Configure test event
+ **1. Create Lambda function 
+ 2. Upload the Jar file
+ 3.  Configure Handler
+ 4. Configure test event**
 
-#### 
-Hit Test button
+![enter image description here](https://github.com/vikki-xiaohua/AWS-series-api-gateway-dynamodb-lambda/blob/main/image/lambda-1.png)
+
+![enter image description here](https://github.com/vikki-xiaohua/AWS-series-api-gateway-dynamodb-lambda/blob/main/image/role-2.png)
+
+**5. Hit Test button**
+
+![enter image description here](https://github.com/vikki-xiaohua/AWS-series-api-gateway-dynamodb-lambda/blob/main/image/test-1.png)
+
+![enter image description here](https://github.com/vikki-xiaohua/AWS-series-api-gateway-dynamodb-lambda/blob/main/image/dynamodb-1.png)
+
+## Todo 
+
+AWS API Gateway
