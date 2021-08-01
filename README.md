@@ -32,10 +32,8 @@ DynamoDB -> Create table
  2. Upload the Jar file
  3.  Configure Handler
  4. Configure test event**
- 
 
 ![enter image description here](https://github.com/vikki-xiaohua/AWS-series-api-gateway-dynamodb-lambda/blob/main/image/lambda-1.png)
-
 
 ![enter image description here](https://github.com/vikki-xiaohua/AWS-series-api-gateway-dynamodb-lambda/blob/main/image/role-2.png)
 
@@ -47,4 +45,4 @@ DynamoDB -> Create table
 
 ## Todo 
 
- AWS API Gateway
+AWS API Gateway
