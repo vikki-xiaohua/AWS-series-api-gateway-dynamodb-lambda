@@ -46,6 +46,10 @@ DynamoDB -> Create table
 
 ![enter image description here](https://github.com/vikki-xiaohua/AWS-series-api-gateway-dynamodb-lambda/blob/main/image/test-2.png)
 
+
+## Also see [S3-Lambda-Trigger-Destination](https://github.com/vikki-xiaohua/AWS-series-s3-lambda-trigger-destination-demo)
+
+
 ## Todo
 
 Add AWS API Gateway as trigger
